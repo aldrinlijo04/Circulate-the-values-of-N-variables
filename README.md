@@ -15,7 +15,8 @@ Get the value from the user for the number of rotation
 Using the slicing concept rotate the list
 
 ### Step 5: 
-### Step 6: 
+Printing the list after circulating 
+
 ## Program:
 ```py
 def circulate():
