@@ -34,7 +34,7 @@ def circulate():
 ```
 
 ## Output:
-![output](/circulate.png)
+![output](/Screenshot%202023-01-26%20120902.png)
 
 ## Result:
 Thus the python program for circulating n variables using function concept successfully
